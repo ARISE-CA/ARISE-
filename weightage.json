@@ -1,0 +1,1015 @@
+{
+  "_readme": "ARISE syllabus and weightage file. Chapter \"id\" values are permanent: never rename or reuse an id. To change a chapter name or weight, edit it here and increase \"version\" by 1. To add a chapter, add a new entry with a brand-new id. Weights are estimates for study planning, not official ICAI data.",
+  "version": 1,
+  "updated": "2026-10-10",
+  "source": "Section ranges follow ICAI Board of Studies (26-Oct-2023). Chapter weights are estimates.",
+  "papers": [
+    {
+      "id": "fr",
+      "name": "Paper 1: Financial Reporting",
+      "group": 1,
+      "sections": [
+        {
+          "id": "fr_s1",
+          "name": "I. Framework, Presentation & Measurement (10–15%)",
+          "chapters": [
+            {
+              "id": "fr_intro_to_gpfs_and_division_ii_of_schedule_iii",
+              "name": "Intro to GPFS & Division II of Schedule III",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_conceptual_framework_ind_as",
+              "name": "Conceptual Framework (Ind AS)",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_ind_as_1_presentation_of_fs",
+              "name": "Ind AS 1 Presentation of FS",
+              "weight": 2
+            },
+            {
+              "id": "fr_ind_as_34_interim_financial_reporting",
+              "name": "Ind AS 34 Interim Financial Reporting",
+              "weight": 1
+            },
+            {
+              "id": "fr_ind_as_7_statement_of_cash_flows",
+              "name": "Ind AS 7 Statement of Cash Flows",
+              "weight": 3
+            },
+            {
+              "id": "fr_ind_as_8_accounting_policies_estimates_and",
+              "name": "Ind AS 8 Accounting Policies, Estimates & Errors",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_ind_as_10_events_after_reporting_period",
+              "name": "Ind AS 10 Events after Reporting Period",
+              "weight": 1
+            },
+            {
+              "id": "fr_ind_as_113_fair_value_measurement",
+              "name": "Ind AS 113 Fair Value Measurement",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "id": "fr_s2",
+          "name": "II. Revenue Recognition (5–10%)",
+          "chapters": [
+            {
+              "id": "fr_ind_as_115_revenue_from_contracts_with",
+              "name": "Ind AS 115 Revenue from Contracts with Customers (+AS 7/9 comparison)",
+              "weight": 7.5
+            }
+          ]
+        },
+        {
+          "id": "fr_s3",
+          "name": "III. Assets & Liabilities (15–25%)",
+          "chapters": [
+            {
+              "id": "fr_ind_as_2_inventories",
+              "name": "Ind AS 2 Inventories",
+              "weight": 2
+            },
+            {
+              "id": "fr_ind_as_16_ppe",
+              "name": "Ind AS 16 PPE",
+              "weight": 3
+            },
+            {
+              "id": "fr_ind_as_116_leases",
+              "name": "Ind AS 116 Leases",
+              "weight": 4
+            },
+            {
+              "id": "fr_ind_as_23_borrowing_costs",
+              "name": "Ind AS 23 Borrowing Costs",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_ind_as_36_impairment_of_assets",
+              "name": "Ind AS 36 Impairment of Assets",
+              "weight": 2.5
+            },
+            {
+              "id": "fr_ind_as_38_intangible_assets",
+              "name": "Ind AS 38 Intangible Assets",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_ind_as_40_investment_property",
+              "name": "Ind AS 40 Investment Property",
+              "weight": 1
+            },
+            {
+              "id": "fr_ind_as_105_non_current_assets_held_for_sale",
+              "name": "Ind AS 105 Non-current Assets Held for Sale",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_ind_as_19_employee_benefits",
+              "name": "Ind AS 19 Employee Benefits",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_ind_as_37_provisions_and_contingencies",
+              "name": "Ind AS 37 Provisions & Contingencies",
+              "weight": 1.5
+            }
+          ]
+        },
+        {
+          "id": "fr_s4",
+          "name": "IV. Items Impacting FS, Disclosures & Other Ind AS (15–20%)",
+          "chapters": [
+            {
+              "id": "fr_ind_as_12_income_taxes_as_22_comparison",
+              "name": "Ind AS 12 Income Taxes (+AS 22 comparison)",
+              "weight": 3.5
+            },
+            {
+              "id": "fr_ind_as_21_foreign_exchange_rates",
+              "name": "Ind AS 21 Foreign Exchange Rates",
+              "weight": 2
+            },
+            {
+              "id": "fr_ind_as_24_related_party_disclosures",
+              "name": "Ind AS 24 Related Party Disclosures",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_ind_as_33_earnings_per_share",
+              "name": "Ind AS 33 Earnings per Share",
+              "weight": 2.5
+            },
+            {
+              "id": "fr_ind_as_108_operating_segments",
+              "name": "Ind AS 108 Operating Segments",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_ind_as_20_government_grants",
+              "name": "Ind AS 20 Government Grants",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_ind_as_102_share_based_payment",
+              "name": "Ind AS 102 Share-based Payment",
+              "weight": 2.5
+            },
+            {
+              "id": "fr_ind_as_41_agriculture",
+              "name": "Ind AS 41 Agriculture",
+              "weight": 1
+            },
+            {
+              "id": "fr_other_ind_as_misc_industry_specific",
+              "name": "Other Ind AS (misc./industry-specific)",
+              "weight": 1.5
+            }
+          ]
+        },
+        {
+          "id": "fr_s5",
+          "name": "V. Financial Instruments (10–15%)",
+          "chapters": [
+            {
+              "id": "fr_ind_as_32_presentation_equity_vs_liability",
+              "name": "Ind AS 32 Presentation (equity vs liability)",
+              "weight": 3
+            },
+            {
+              "id": "fr_ind_as_109_classification_and_measurement",
+              "name": "Ind AS 109 Classification & Measurement",
+              "weight": 4
+            },
+            {
+              "id": "fr_derivatives_and_embedded_derivatives",
+              "name": "Derivatives & Embedded Derivatives",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_recognition_and_derecognition",
+              "name": "Recognition & Derecognition",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_hedge_accounting",
+              "name": "Hedge Accounting",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_ind_as_107_disclosures",
+              "name": "Ind AS 107 Disclosures",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "id": "fr_s6",
+          "name": "VI. Group Accounting (10–20%)",
+          "chapters": [
+            {
+              "id": "fr_ind_as_103_business_combinations",
+              "name": "Ind AS 103 Business Combinations",
+              "weight": 5
+            },
+            {
+              "id": "fr_ind_as_110_consolidated_fs",
+              "name": "Ind AS 110 Consolidated FS",
+              "weight": 6
+            },
+            {
+              "id": "fr_ind_as_111_joint_arrangements",
+              "name": "Ind AS 111 Joint Arrangements",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_ind_as_27_separate_fs",
+              "name": "Ind AS 27 Separate FS",
+              "weight": 0.5
+            },
+            {
+              "id": "fr_ind_as_28_associates_and_jvs",
+              "name": "Ind AS 28 Associates & JVs",
+              "weight": 1.5
+            },
+            {
+              "id": "fr_ind_as_112_disclosure_of_interests",
+              "name": "Ind AS 112 Disclosure of Interests",
+              "weight": 0.5
+            }
+          ]
+        },
+        {
+          "id": "fr_s7",
+          "name": "VII. First-time Adoption & Analysis of FS (5–10%)",
+          "chapters": [
+            {
+              "id": "fr_ind_as_101_first_time_adoption",
+              "name": "Ind AS 101 First-time Adoption",
+              "weight": 3.5
+            },
+            {
+              "id": "fr_analysis_of_financial_statements",
+              "name": "Analysis of Financial Statements",
+              "weight": 4
+            }
+          ]
+        },
+        {
+          "id": "fr_s8",
+          "name": "VIII. Ethics & Technology (5–10%)",
+          "chapters": [
+            {
+              "id": "fr_ethics_with_accounting_concepts",
+              "name": "Ethics with Accounting Concepts",
+              "weight": 3
+            },
+            {
+              "id": "fr_technology_and_accounting",
+              "name": "Technology & Accounting",
+              "weight": 2.5
+            },
+            {
+              "id": "fr_evolution_of_accounting_in_tech_environment",
+              "name": "Evolution of Accounting in Tech Environment",
+              "weight": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "afm",
+      "name": "Paper 2: Advanced Financial Management",
+      "group": 1,
+      "sections": [
+        {
+          "id": "afm_s1",
+          "name": "I. Financial Policy, Risk & Capital Budgeting (8–15%)",
+          "chapters": [
+            {
+              "id": "afm_financial_policy_and_corporate_strategy",
+              "name": "Financial Policy & Corporate Strategy",
+              "weight": 1.5
+            },
+            {
+              "id": "afm_role_of_cfo_strategic_decision_framework",
+              "name": "Role of CFO, Strategic Decision Framework, Financial Goals vs Growth",
+              "weight": 1
+            },
+            {
+              "id": "afm_risk_management_and_value_at_risk",
+              "name": "Risk Management & Value at Risk",
+              "weight": 2.5
+            },
+            {
+              "id": "afm_advanced_capital_budgeting_inflation_risk",
+              "name": "Advanced Capital Budgeting (inflation, risk-adjusted)",
+              "weight": 5
+            },
+            {
+              "id": "afm_other_policy_topics_dividend_sustainable",
+              "name": "Other policy topics (dividend, sustainable growth)",
+              "weight": 1.5
+            }
+          ]
+        },
+        {
+          "id": "afm_s2",
+          "name": "II. Security Analysis, Valuation & Portfolio (20–30%)",
+          "chapters": [
+            {
+              "id": "afm_security_analysis_fundamental_technical_emh",
+              "name": "Security Analysis (fundamental, technical, EMH)",
+              "weight": 5
+            },
+            {
+              "id": "afm_security_valuation_equity_preference_bonds",
+              "name": "Security Valuation (equity, preference, bonds)",
+              "weight": 6
+            },
+            {
+              "id": "afm_portfolio_management_capm_apt_sharpe",
+              "name": "Portfolio Management (CAPM, APT, Sharpe, rebalancing)",
+              "weight": 11
+            },
+            {
+              "id": "afm_portfolio_performance_evaluation_and",
+              "name": "Portfolio Performance Evaluation & Behavioural Finance",
+              "weight": 3
+            }
+          ]
+        },
+        {
+          "id": "afm_s3",
+          "name": "III. Securitization, Mutual Funds & Derivatives (20–30%)",
+          "chapters": [
+            {
+              "id": "afm_securitization_and_tokenization",
+              "name": "Securitization & Tokenization",
+              "weight": 3
+            },
+            {
+              "id": "afm_mutual_funds_and_hedge_funds",
+              "name": "Mutual Funds & Hedge Funds",
+              "weight": 5
+            },
+            {
+              "id": "afm_derivatives_forwards_futures_options_greeks",
+              "name": "Derivatives: Forwards, Futures, Options, Greeks, Binomial/BS",
+              "weight": 14
+            },
+            {
+              "id": "afm_swaps_credit_and_commodity_derivatives",
+              "name": "Swaps, Credit & Commodity Derivatives",
+              "weight": 3
+            }
+          ]
+        },
+        {
+          "id": "afm_s4",
+          "name": "IV. Forex, International FM & Interest Rate Risk (20–25%)",
+          "chapters": [
+            {
+              "id": "afm_forex_exposure_and_risk_management",
+              "name": "Forex Exposure & Risk Management",
+              "weight": 9
+            },
+            {
+              "id": "afm_exchange_rate_determination_ppp_irp_swift",
+              "name": "Exchange Rate Determination (PPP/IRP), SWIFT",
+              "weight": 3
+            },
+            {
+              "id": "afm_international_capital_budgeting",
+              "name": "International Capital Budgeting",
+              "weight": 4
+            },
+            {
+              "id": "afm_international_funding_sovereign_funds_gift",
+              "name": "International Funding, Sovereign Funds, GIFT City",
+              "weight": 2.5
+            },
+            {
+              "id": "afm_interest_rate_risk_management_fra_swaps_caps",
+              "name": "Interest Rate Risk Management (FRA, swaps, caps)",
+              "weight": 4
+            }
+          ]
+        },
+        {
+          "id": "afm_s5",
+          "name": "V. Business Valuation & M&A (10–15%)",
+          "chapters": [
+            {
+              "id": "afm_business_valuation_asset_earnings_cash_flow",
+              "name": "Business Valuation (asset, earnings, cash-flow, relative, EVA/MVA)",
+              "weight": 6
+            },
+            {
+              "id": "afm_mergers_and_acquisitions",
+              "name": "Mergers & Acquisitions",
+              "weight": 5
+            },
+            {
+              "id": "afm_corporate_restructuring_lbo_demerger",
+              "name": "Corporate Restructuring (LBO, demerger)",
+              "weight": 1.5
+            }
+          ]
+        },
+        {
+          "id": "afm_s6",
+          "name": "VI. Startup Finance (2–5%)",
+          "chapters": [
+            {
+              "id": "afm_startup_finance_unicorns_goi_initiatives",
+              "name": "Startup Finance, Unicorns, GOI Initiatives, Succession Planning",
+              "weight": 3.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa",
+      "name": "Paper 3: Advanced Auditing, Assurance & Professional Ethics",
+      "group": 1,
+      "sections": [
+        {
+          "id": "aa_s1",
+          "name": "I. Standards on Auditing (45–55%)",
+          "chapters": [
+            {
+              "id": "aa_quality_control_sqc_1_sa_220",
+              "name": "Quality Control (SQC 1, SA 220)",
+              "weight": 4
+            },
+            {
+              "id": "aa_planning_materiality_and_risk_assessment_sa",
+              "name": "Planning, Materiality & Risk Assessment (SA 210, 230, 300, 315, 320, 330)",
+              "weight": 8
+            },
+            {
+              "id": "aa_fraud_laws_and_regulations_going_concern_sa",
+              "name": "Fraud, Laws & Regulations, Going Concern (SA 240, 250, 570)",
+              "weight": 7
+            },
+            {
+              "id": "aa_audit_evidence_and_procedures_sa_500_580",
+              "name": "Audit Evidence & Procedures (SA 500-580 series)",
+              "weight": 10
+            },
+            {
+              "id": "aa_using_others_work_joint_audit_service_orgs_sa",
+              "name": "Using Others' Work, Joint Audit, Service Orgs (SA 299, 402, 610, 620)",
+              "weight": 5
+            },
+            {
+              "id": "aa_audit_reports_sa_700_701_705_706_710_720",
+              "name": "Audit Reports (SA 700, 701, 705, 706, 710, 720)",
+              "weight": 9
+            },
+            {
+              "id": "aa_communication_and_special_engagements_sa_260",
+              "name": "Communication & Special Engagements (SA 260, 265, 800, 805, 810; SRE/SAE)",
+              "weight": 4
+            },
+            {
+              "id": "aa_internal_control_and_automated_environment",
+              "name": "Internal Control & Automated Environment",
+              "weight": 3
+            }
+          ]
+        },
+        {
+          "id": "aa_s2",
+          "name": "II. Digital Auditing & Assurance (3–6%)",
+          "chapters": [
+            {
+              "id": "aa_caat_data_analytics_ai_and_remote_auditing",
+              "name": "CAAT, Data Analytics, AI & Remote Auditing",
+              "weight": 4.5
+            }
+          ]
+        },
+        {
+          "id": "aa_s3",
+          "name": "III. Specialised Audits (17–24%)",
+          "chapters": [
+            {
+              "id": "aa_group_audits_sa_600_and_consolidated_fs_audit",
+              "name": "Group Audits (SA 600) & Consolidated FS Audit",
+              "weight": 4
+            },
+            {
+              "id": "aa_audit_of_banks",
+              "name": "Audit of Banks",
+              "weight": 4.5
+            },
+            {
+              "id": "aa_audit_of_nbfcs",
+              "name": "Audit of NBFCs",
+              "weight": 2.5
+            },
+            {
+              "id": "aa_psu_audit_propriety_performance_comprehensive",
+              "name": "PSU Audit: Propriety, Performance, Comprehensive",
+              "weight": 3
+            },
+            {
+              "id": "aa_internal_audit",
+              "name": "Internal Audit",
+              "weight": 2.5
+            },
+            {
+              "id": "aa_due_diligence_investigation_and_forensic",
+              "name": "Due Diligence, Investigation & Forensic Accounting",
+              "weight": 4
+            }
+          ]
+        },
+        {
+          "id": "aa_s4",
+          "name": "IV. Emerging Areas (3–6%)",
+          "chapters": [
+            {
+              "id": "aa_sustainable_development_goals_sdg",
+              "name": "Sustainable Development Goals (SDG)",
+              "weight": 2
+            },
+            {
+              "id": "aa_esg_assurance",
+              "name": "ESG Assurance",
+              "weight": 2.5
+            }
+          ]
+        },
+        {
+          "id": "aa_s5",
+          "name": "V. Professional Ethics & Liabilities (17–24%)",
+          "chapters": [
+            {
+              "id": "aa_iesba_code_fundamental_principles_threats_and",
+              "name": "IESBA Code, Fundamental Principles, Threats & Safeguards",
+              "weight": 6
+            },
+            {
+              "id": "aa_chartered_accountants_act_1949_incl_schedules",
+              "name": "Chartered Accountants Act, 1949 (incl. Schedules)",
+              "weight": 9
+            },
+            {
+              "id": "aa_chartered_accountants_regulations_1988",
+              "name": "Chartered Accountants Regulations, 1988",
+              "weight": 3
+            },
+            {
+              "id": "aa_professional_and_other_liabilities",
+              "name": "Professional & Other Liabilities",
+              "weight": 2.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dt",
+      "name": "Paper 4: Direct Tax Laws & International Taxation",
+      "group": 2,
+      "sections": [
+        {
+          "id": "dt_s1",
+          "name": "I. Computation of Tax Liability (40–45%)",
+          "chapters": [
+            {
+              "id": "dt_comprehensive_computation_individuals_firms",
+              "name": "Comprehensive computation (individuals, firms, companies)",
+              "weight": 15
+            },
+            {
+              "id": "dt_general_provisions_and_special_regimes_for",
+              "name": "General provisions & special regimes for companies",
+              "weight": 4
+            },
+            {
+              "id": "dt_tax_planning_and_optimisation",
+              "name": "Tax planning & optimisation",
+              "weight": 4
+            },
+            {
+              "id": "dt_charitable_and_religious_trusts",
+              "name": "Charitable & Religious Trusts",
+              "weight": 4.5
+            },
+            {
+              "id": "dt_political_parties_and_electoral_trusts",
+              "name": "Political Parties & Electoral Trusts",
+              "weight": 1
+            },
+            {
+              "id": "dt_business_trusts_securitisation_trusts",
+              "name": "Business Trusts, Securitisation Trusts, Investment Funds",
+              "weight": 4
+            },
+            {
+              "id": "dt_amalgamation_demerger_slump_sale_restructuring",
+              "name": "Amalgamation, Demerger, Slump Sale (restructuring)",
+              "weight": 5
+            },
+            {
+              "id": "dt_anti_avoidance_gaar",
+              "name": "Anti-avoidance (GAAR)",
+              "weight": 3
+            },
+            {
+              "id": "dt_tax_challenges_of_digitalisation",
+              "name": "Tax challenges of digitalisation",
+              "weight": 2
+            }
+          ]
+        },
+        {
+          "id": "dt_s2",
+          "name": "II. Tax Administration (20–30%)",
+          "chapters": [
+            {
+              "id": "dt_tds_and_tcs",
+              "name": "TDS & TCS",
+              "weight": 7
+            },
+            {
+              "id": "dt_income_tax_authorities_and_assessment",
+              "name": "Income-tax Authorities & Assessment Procedures",
+              "weight": 5
+            },
+            {
+              "id": "dt_appeals_and_revision",
+              "name": "Appeals & Revision",
+              "weight": 4
+            },
+            {
+              "id": "dt_dispute_resolution_drp_settlement",
+              "name": "Dispute Resolution (DRP, Settlement)",
+              "weight": 2.5
+            },
+            {
+              "id": "dt_undisclosed_income_and_foreign_income_assets",
+              "name": "Undisclosed Income & Foreign Income/Assets",
+              "weight": 2.5
+            },
+            {
+              "id": "dt_penalties_offences_and_prosecution",
+              "name": "Penalties, Offences & Prosecution",
+              "weight": 2.5
+            },
+            {
+              "id": "dt_tax_audit_44ab_advance_tax_interest",
+              "name": "Tax Audit (44AB), Advance Tax, Interest",
+              "weight": 1.5
+            }
+          ]
+        },
+        {
+          "id": "dt_s3",
+          "name": "III. International Taxation (30–35%)",
+          "chapters": [
+            {
+              "id": "dt_transfer_pricing",
+              "name": "Transfer Pricing",
+              "weight": 9
+            },
+            {
+              "id": "dt_non_resident_taxation",
+              "name": "Non-Resident Taxation",
+              "weight": 7
+            },
+            {
+              "id": "dt_double_taxation_relief",
+              "name": "Double Taxation Relief",
+              "weight": 4.5
+            },
+            {
+              "id": "dt_advance_ruling",
+              "name": "Advance Ruling",
+              "weight": 1.5
+            },
+            {
+              "id": "dt_oecd_model_convention",
+              "name": "OECD Model Convention",
+              "weight": 3
+            },
+            {
+              "id": "dt_un_model_convention",
+              "name": "UN Model Convention",
+              "weight": 1.5
+            },
+            {
+              "id": "dt_beps",
+              "name": "BEPS",
+              "weight": 2.5
+            },
+            {
+              "id": "dt_interpretation_of_tax_treaties",
+              "name": "Interpretation of Tax Treaties",
+              "weight": 2
+            },
+            {
+              "id": "dt_latest_developments_in_international_taxation",
+              "name": "Latest developments in International Taxation",
+              "weight": 1.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "idt",
+      "name": "Paper 5: Indirect Tax Laws",
+      "group": 2,
+      "sections": [
+        {
+          "id": "idt_s1",
+          "name": "GST-I. Levy, Supply, ITC & Computation (36–52 marks)",
+          "chapters": [
+            {
+              "id": "idt_levy_and_collection_of_cgst_igst",
+              "name": "Levy & Collection of CGST/IGST",
+              "weight": 4
+            },
+            {
+              "id": "idt_concept_of_supply_inter_intra_state",
+              "name": "Concept of Supply (inter/intra-State, territorial waters)",
+              "weight": 7
+            },
+            {
+              "id": "idt_charge_of_tax_incl_reverse_charge",
+              "name": "Charge of Tax incl. Reverse Charge",
+              "weight": 6
+            },
+            {
+              "id": "idt_classification",
+              "name": "Classification",
+              "weight": 3
+            },
+            {
+              "id": "idt_exemption",
+              "name": "Exemption",
+              "weight": 4
+            },
+            {
+              "id": "idt_place_of_supply",
+              "name": "Place of Supply",
+              "weight": 6
+            },
+            {
+              "id": "idt_time_of_supply",
+              "name": "Time of Supply",
+              "weight": 3
+            },
+            {
+              "id": "idt_value_of_supply",
+              "name": "Value of Supply",
+              "weight": 4
+            },
+            {
+              "id": "idt_input_tax_credit_and_computation_of_liability",
+              "name": "Input Tax Credit & Computation of Liability",
+              "weight": 7
+            }
+          ]
+        },
+        {
+          "id": "idt_s2",
+          "name": "GST-II. Procedures, Refunds, Job Work (8–24 marks)",
+          "chapters": [
+            {
+              "id": "idt_registration",
+              "name": "Registration",
+              "weight": 2.5
+            },
+            {
+              "id": "idt_invoice_credit_and_debit_notes",
+              "name": "Invoice, Credit & Debit Notes",
+              "weight": 1.5
+            },
+            {
+              "id": "idt_e_way_bill",
+              "name": "E-way Bill",
+              "weight": 1.5
+            },
+            {
+              "id": "idt_accounts_and_records",
+              "name": "Accounts & Records",
+              "weight": 0.5
+            },
+            {
+              "id": "idt_returns",
+              "name": "Returns",
+              "weight": 2
+            },
+            {
+              "id": "idt_payment_of_tax",
+              "name": "Payment of Tax",
+              "weight": 1.5
+            },
+            {
+              "id": "idt_refunds",
+              "name": "Refunds",
+              "weight": 3
+            },
+            {
+              "id": "idt_job_work",
+              "name": "Job Work",
+              "weight": 1.5
+            },
+            {
+              "id": "idt_liability_to_pay_in_certain_cases",
+              "name": "Liability to Pay in Certain Cases",
+              "weight": 2
+            }
+          ]
+        },
+        {
+          "id": "idt_s3",
+          "name": "GST-III. Administration, Assessment & Audit (0–4 marks)",
+          "chapters": [
+            {
+              "id": "idt_administration_of_gst",
+              "name": "Administration of GST",
+              "weight": 0.5
+            },
+            {
+              "id": "idt_assessment_and_audit",
+              "name": "Assessment & Audit",
+              "weight": 1
+            },
+            {
+              "id": "idt_inspection_search_seizure_and_arrest",
+              "name": "Inspection, Search, Seizure & Arrest",
+              "weight": 0.5
+            }
+          ]
+        },
+        {
+          "id": "idt_s4",
+          "name": "GST-IV. Demands, Offences, Appeals & Ethics (12–24 marks)",
+          "chapters": [
+            {
+              "id": "idt_demand_and_recovery",
+              "name": "Demand & Recovery",
+              "weight": 5
+            },
+            {
+              "id": "idt_offences_and_penalties",
+              "name": "Offences & Penalties",
+              "weight": 4
+            },
+            {
+              "id": "idt_advance_ruling",
+              "name": "Advance Ruling",
+              "weight": 2
+            },
+            {
+              "id": "idt_appeals_and_revision",
+              "name": "Appeals & Revision",
+              "weight": 5
+            },
+            {
+              "id": "idt_ethics_under_gst",
+              "name": "Ethics under GST",
+              "weight": 2
+            }
+          ]
+        },
+        {
+          "id": "idt_s5",
+          "name": "Customs-I. Levy, Duties, Classification & Valuation (8–13 marks)",
+          "chapters": [
+            {
+              "id": "idt_levy_and_exemptions",
+              "name": "Levy & Exemptions",
+              "weight": 3
+            },
+            {
+              "id": "idt_types_of_customs_duties",
+              "name": "Types of Customs Duties",
+              "weight": 2
+            },
+            {
+              "id": "idt_classification_s5",
+              "name": "Classification",
+              "weight": 2
+            },
+            {
+              "id": "idt_valuation",
+              "name": "Valuation",
+              "weight": 3.5
+            }
+          ]
+        },
+        {
+          "id": "idt_s6",
+          "name": "Customs-II. Procedures, Warehousing, Refund, Export Promotion (4–9 marks)",
+          "chapters": [
+            {
+              "id": "idt_import_export_procedures_baggage_post_stores",
+              "name": "Import/Export Procedures (baggage, post, stores)",
+              "weight": 3
+            },
+            {
+              "id": "idt_warehousing",
+              "name": "Warehousing",
+              "weight": 1.5
+            },
+            {
+              "id": "idt_refund",
+              "name": "Refund",
+              "weight": 1
+            },
+            {
+              "id": "idt_export_promotion_schemes_ftp_basics",
+              "name": "Export Promotion Schemes (FTP basics)",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "id": "idt_s7",
+          "name": "Customs-III. Intro to Customs Law & FTP (2–4 marks)",
+          "chapters": [
+            {
+              "id": "idt_intro_to_customs_law_incl_constitutional",
+              "name": "Intro to Customs Law incl. Constitutional aspects",
+              "weight": 1
+            },
+            {
+              "id": "idt_ftp_legislation_features_administration",
+              "name": "FTP: legislation, features, administration",
+              "weight": 1.5
+            },
+            {
+              "id": "idt_basic_concepts_of_import_export",
+              "name": "Basic concepts of import/export",
+              "weight": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ibs",
+      "name": "Paper 6: Integrated Business Solutions",
+      "group": 2,
+      "sections": [
+        {
+          "id": "ibs_s1",
+          "name": "Multi-disciplinary integration (placeholder weights)",
+          "chapters": [
+            {
+              "id": "ibs_financial_reporting",
+              "name": "Financial Reporting",
+              "weight": 20
+            },
+            {
+              "id": "ibs_advanced_financial_management",
+              "name": "Advanced Financial Management",
+              "weight": 15
+            },
+            {
+              "id": "ibs_auditing_and_ethics",
+              "name": "Auditing & Ethics",
+              "weight": 15
+            },
+            {
+              "id": "ibs_direct_tax",
+              "name": "Direct Tax",
+              "weight": 15
+            },
+            {
+              "id": "ibs_indirect_tax",
+              "name": "Indirect Tax",
+              "weight": 15
+            },
+            {
+              "id": "ibs_strategic_management",
+              "name": "Strategic Management",
+              "weight": 10
+            },
+            {
+              "id": "ibs_information_systems_case_study_practice",
+              "name": "Information Systems / Case-study practice",
+              "weight": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
